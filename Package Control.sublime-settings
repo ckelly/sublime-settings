@@ -1,3 +1,7 @@
 {
-	"auto_upgrade_last_run": 1323804516
+	"auto_upgrade_last_run": 1326392517,
+	"installed_packages":
+	[
+		"SublimeLinter"
+	]
 }

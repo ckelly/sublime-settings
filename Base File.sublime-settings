@@ -5,5 +5,6 @@
 	"font_face": "inconsolata",
 	"font_size": 14.0,
 	"highlight_line": true,
-	"sublimelinter": true
+	"sublimelinter": true,
+	"auto_complete_commit_on_tab": true
 }
