@@ -1,9 +1,15 @@
 {
-	"auto_upgrade_last_run": 1329948825,
+	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
+		"CoffeeScript",
+		"GitGutter",
+		"nginx",
 		"Package Control",
-		"sublimelint",
-		"SublimeLinter"
+		"Pretty JSON",
+		"Pylinter",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Tomorrow Color Schemes"
 	]
 }
