@@ -2,6 +2,7 @@
 	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
+		"Base16 Color Schemes",
 		"CoffeeScript",
 		"GitGutter",
 		"nginx",
